@@ -10,7 +10,7 @@ This project showcases a webpage that displays technical specifications and revi
 
 1. Clone the repository to your local machine:
     ```bash
-    git clone https://github.com/principia-college/lab-3-advanced-javascript-1-Coleman-S.git
+    git clone https://github.com/principia-college/css-lab-Coleman-S.git
     ```
 2. Navigate to the project directory:
     ```bash
